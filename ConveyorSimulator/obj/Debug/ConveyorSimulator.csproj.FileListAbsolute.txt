@@ -1,0 +1,10 @@
+E:\программы\task_3_var_4-master\ConveyorSimulator\obj\Debug\ConveyorSimulator.csproj.AssemblyReference.cache
+E:\программы\task_3_var_4-master\ConveyorSimulator\obj\Debug\ConveyorSimulator.Properties.Resources.resources
+E:\программы\task_3_var_4-master\ConveyorSimulator\obj\Debug\ConveyorSimulator.csproj.GenerateResource.Cache
+E:\программы\task_3_var_4-master\ConveyorSimulator\obj\Debug\ConveyorSimulator.csproj.CoreCompileInputs.cache
+E:\программы\task_3_var_4-master\ConveyorSimulator\bin\Debug\ConveyorSimulator.exe.config
+E:\программы\task_3_var_4-master\ConveyorSimulator\bin\Debug\ConveyorSimulator.exe
+E:\программы\task_3_var_4-master\ConveyorSimulator\bin\Debug\ConveyorSimulator.pdb
+E:\программы\task_3_var_4-master\ConveyorSimulator\obj\Debug\ConveyorSimulator.exe
+E:\программы\task_3_var_4-master\ConveyorSimulator\obj\Debug\ConveyorSimulator.pdb
+E:\программы\task_3_var_4-master\ConveyorSimulator\obj\Debug\ConveyorSimulator.exe.config
